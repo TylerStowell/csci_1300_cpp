@@ -1,0 +1,39 @@
+
+Welcome to Star Voyage! this game is one of strategy and luck, determining your fate in the galaxy.
+
+The galaxy is a dark and treterous place, full of unknown obsticles and enemy lurking in the shadows.
+
+The goal: To win this game you must make it to to the next Star Base with out having your ship destroyed
+          or loosing too many of your crew members.
+          To make it through safely, you must be smart about your resources and what may be ahead, not just what
+          is infront of you.
+
+SHIPS: To start, you will choose your ship to travel accrost the galaxy in and be able to buy extra resources to
+       start your voyage. Each ship had adifferent value for its strength, shield strength, plazma charge, crew,
+       and power.
+    
+    Power: this determins how many light years you can travel before you will have to recharge.
+    
+    Shield Strength: this affects how much your ship can get hit by asteroids and enemy fire before your ship is
+                     destroyed.
+    
+    Plazma charge: plazma charge is your ammo used to destroy metiors and alien ships.
+    
+    Crew: your crew size affects your chances of beating the Aliens in battle.
+
+ALIENS: Along your way you may encounter aliens, assume all are not friendly, who you will have to fight or run
+        away from. Fighting these aliens will affect your shield strength but can also give you valuable
+        resources. But be careful, you could also be deatroyed if you're not smart.
+        The aliens have a crew of unknown size that will affect your success in destroying them.
+        The probability of winning is determined by your crew size times your ship's strength. If you have
+        a higher value than the enemy, you will destroy them and continue on your path.
+        If the enemy has a higher value, then your ship is destroyed and your crew gets launched into the dark
+        abyse. Choose your battles wisely. If you go flee the enemy, you will be safe, for now, but this affects
+        the ship's power and ability to make it to the planet.
+
+OBSTACLES: On your path, you many encounter obstacles in the form of meteorites. If you come in contact with one
+           of these meteorites, you will have the option to shoot the meteorte or go around. Like with fleeing
+           alien's, if you go around the meteorite, the ship's distance is increased and depending on the
+           avalible power, you may not make it to the planet. If you choose to destroy the meteorite, you
+           don't know the size of it, some larger, some smaller, and your ship may not be strong enough to
+           destroy it. Optomly ending in your ship's destruction killing all of your crew.
